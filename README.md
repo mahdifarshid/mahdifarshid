@@ -31,13 +31,10 @@ in Software Engineering.
 
 Also working with React, PHP, Express.js, Python, MySQL, MongoDB, Redis, Socket.IO, and Linux.
 
-## 🚀 Featured repositories
+## 🚀 Currently building
 
-| Repository                                                       | Focus                                                                              |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [PayFreo](https://github.com/mahdifarshid/payfreo)               | A payment platform in early development, with a public roadmap and architecture.   |
-| [OrbitFramework](https://github.com/mahdifarshid/OrbitFramework) | A lightweight PHP framework built around routing, controllers, and modular design. |
-| [GoDBAdmin](https://github.com/mahdifarshid/GoDBAdmin)           | A web-based MySQL administration tool built with Go and React.                     |
+**[PayFreo](https://github.com/mahdifarshid/payfreo)** — a payment platform in early development,
+with its roadmap and architecture available in the repository.
 
 ## ⛓️ Web3 and automation
 
